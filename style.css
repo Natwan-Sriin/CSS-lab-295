@@ -103,10 +103,7 @@ p {
 
 /* Activity */
     .activity-img {
-    width: 70%;        /* ปรับได้ เช่น 60% */
-    max-width: 500px;  /* ไม่ให้ใหญ่เกิน */
-    display: block;
-    margin: 10px auto;
+    margin: 10px ;
     border-radius: 10px;
 }
 
@@ -163,6 +160,7 @@ p {
         font-size: 1.6rem;
     }
 }
+
 
 
 
