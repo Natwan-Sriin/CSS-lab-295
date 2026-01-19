@@ -102,12 +102,14 @@ p {
 }
 
 /* Activity */
-    .activity-img {
-    margin: 10px ;
+   .activity-img {
+    width: 40%;       
+    max-width: 500px;  
+    display: block;
+    margin: 10px auto;
     border-radius: 10px;
 }
 
-}
 /* Comment Section  */
 .comment-section {
     margin-top: 40px;
@@ -160,6 +162,7 @@ p {
         font-size: 1.6rem;
     }
 }
+
 
 
 
