@@ -105,6 +105,14 @@ p {
 .activity img {
     margin-top: 10px;
     border-radius: 10px;
+    .activity-img {
+    width: 70%;        /* ปรับได้ เช่น 60% */
+    max-width: 500px;  /* ไม่ให้ใหญ่เกิน */
+    display: block;
+    margin: 10px auto;
+    
+}
+
 }
 /* Comment Section  */
 .comment-section {
@@ -158,6 +166,7 @@ p {
         font-size: 1.6rem;
     }
 }
+
 
 
 
